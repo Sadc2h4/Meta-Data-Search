@@ -25,3 +25,7 @@ supports loading PNG / JPG / WebP files (with preview support) via drag-and-drop
 
 This is the light version, which omits the AI prompt functionality to reduce the overall file size.  
 If you primarily want to use it for metadata extraction, this version might be preferable.
+
+
+https://github.com/user-attachments/assets/41df9f8c-6f60-445f-8daf-a608fabf6c21
+
